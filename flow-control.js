@@ -43,4 +43,3 @@ switch (valor) {
   default:
       console.log("nada se cumple");
 }
-
